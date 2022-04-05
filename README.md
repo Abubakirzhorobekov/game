@@ -4,3 +4,4 @@
 this code about war between Russian and Ukrain soldiers where:
  Russian soldiers == 1
  Ukrain soldiers == 2
+ if russian soldiers  more than Ukrain, Ukrain will die, if Ukrain soldiers more than russian, russian will die, else they be still alive.
